@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/drag-n-drop-taskboard/static/js/main.e6758eb0.chunk.js",
-    "main.js.map": "/drag-n-drop-taskboard/static/js/main.e6758eb0.chunk.js.map",
-    "runtime-main.js": "/drag-n-drop-taskboard/static/js/runtime-main.8f4e6e6e.js",
-    "runtime-main.js.map": "/drag-n-drop-taskboard/static/js/runtime-main.8f4e6e6e.js.map",
-    "static/css/2.558413a2.chunk.css": "/drag-n-drop-taskboard/static/css/2.558413a2.chunk.css",
-    "static/js/2.cfe50816.chunk.js": "/drag-n-drop-taskboard/static/js/2.cfe50816.chunk.js",
-    "static/js/2.cfe50816.chunk.js.map": "/drag-n-drop-taskboard/static/js/2.cfe50816.chunk.js.map",
-    "static/js/3.9266213b.chunk.js": "/drag-n-drop-taskboard/static/js/3.9266213b.chunk.js",
-    "static/js/3.9266213b.chunk.js.map": "/drag-n-drop-taskboard/static/js/3.9266213b.chunk.js.map",
-    "index.html": "/drag-n-drop-taskboard/index.html",
-    "static/css/2.558413a2.chunk.css.map": "/drag-n-drop-taskboard/static/css/2.558413a2.chunk.css.map",
-    "static/js/2.cfe50816.chunk.js.LICENSE.txt": "/drag-n-drop-taskboard/static/js/2.cfe50816.chunk.js.LICENSE.txt"
+    "main.js": "/drag-and-drop-taskboard/static/js/main.82e5e98d.chunk.js",
+    "main.js.map": "/drag-and-drop-taskboard/static/js/main.82e5e98d.chunk.js.map",
+    "runtime-main.js": "/drag-and-drop-taskboard/static/js/runtime-main.8eab6775.js",
+    "runtime-main.js.map": "/drag-and-drop-taskboard/static/js/runtime-main.8eab6775.js.map",
+    "static/css/2.558413a2.chunk.css": "/drag-and-drop-taskboard/static/css/2.558413a2.chunk.css",
+    "static/js/2.2f4b9487.chunk.js": "/drag-and-drop-taskboard/static/js/2.2f4b9487.chunk.js",
+    "static/js/2.2f4b9487.chunk.js.map": "/drag-and-drop-taskboard/static/js/2.2f4b9487.chunk.js.map",
+    "static/js/3.fec04c1a.chunk.js": "/drag-and-drop-taskboard/static/js/3.fec04c1a.chunk.js",
+    "static/js/3.fec04c1a.chunk.js.map": "/drag-and-drop-taskboard/static/js/3.fec04c1a.chunk.js.map",
+    "index.html": "/drag-and-drop-taskboard/index.html",
+    "static/css/2.558413a2.chunk.css.map": "/drag-and-drop-taskboard/static/css/2.558413a2.chunk.css.map",
+    "static/js/2.2f4b9487.chunk.js.LICENSE.txt": "/drag-and-drop-taskboard/static/js/2.2f4b9487.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f4e6e6e.js",
+    "static/js/runtime-main.8eab6775.js",
     "static/css/2.558413a2.chunk.css",
-    "static/js/2.cfe50816.chunk.js",
-    "static/js/main.e6758eb0.chunk.js"
+    "static/js/2.2f4b9487.chunk.js",
+    "static/js/main.82e5e98d.chunk.js"
   ]
 }
