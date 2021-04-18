@@ -3,6 +3,8 @@
 A taskboard application with drag and drop feature.  
 Live demo is **[here](https://onderonur.github.io/drag-and-drop-taskboard/)**.
 
+<img src="./screenshots/example.jpg" />
+
 ## Tech Stack
 
 * Language: [TypeScript](https://www.typescriptlang.org/)
