@@ -19,11 +19,11 @@ Live demo is **[here](https://onderonur.github.io/drag-and-drop-taskboard/)**.
 
 ## Features
 
-* Create, edit & delete tasks
-* Change task order and status by drag & drop
-* Tasks are persisted to `localStorage`
-* Sync between tabs
-* Automated deployments with GitHub Actions
+🖋 Create, edit & delete tasks
+☝ Change task order and status by drag & drop
+💾 Tasks are persisted to localStorage
+🔃 Sync between tabs
+🚀 Automated deployments with GitHub Actions
 
 ## Development
 ### `npm start`
