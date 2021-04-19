@@ -7,15 +7,15 @@ Live demo is **[here](https://onderonur.github.io/drag-and-drop-taskboard/)**.
 
 ## Tech Stack
 
-* Language: [TypeScript](https://www.typescriptlang.org/)
-* UI-Components: [Ant Design](https://ant.design/)
-* Icons: [Ant Design Icons](https://ant.design/components/icon/)
-* Drag & Drop: [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-* Styling: [styled-components](https://styled-components.com/)
-* Linting: [ESLint](https://eslint.org/)
-* Code Formatting: [Prettier](https://prettier.io/)
-* Deployment: [GitHub Actions](https://github.com/features/actions)
-* Hosting: [GitHub Pages](https://pages.github.com/)
+- Language: [TypeScript](https://www.typescriptlang.org/)
+- UI-Components: [Ant Design](https://ant.design/)
+- Icons: [Ant Design Icons](https://ant.design/components/icon/)
+- Drag & Drop: [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+- Styling: [styled-components](https://styled-components.com/)
+- Linting: [ESLint](https://eslint.org/)
+- Code Formatting: [Prettier](https://prettier.io/)
+- Deployment: [GitHub Actions](https://github.com/features/actions)
+- Hosting: [GitHub Pages](https://pages.github.com/)
 
 ## Features
 
