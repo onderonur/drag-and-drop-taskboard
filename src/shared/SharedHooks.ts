@@ -2,7 +2,7 @@ import { goTrySync } from 'go-try';
 import React, { useCallback, useEffect, useState } from 'react';
 
 // Syncs state to localStorage and vice versa
-function useSyncedState<T>(
+export function useSyncedState<T>(
   key: string,
   initialValue: T
 ): [T, React.Dispatch<React.SetStateAction<T>>] {
@@ -34,4 +34,3 @@ function useSyncedState<T>(
   return [state, setState];
 }
 
-export default useSyncedState;

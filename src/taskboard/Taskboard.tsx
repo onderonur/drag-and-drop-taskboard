@@ -7,7 +7,7 @@ import TaskboardItemFormModal, {
   TaskboardItemFormValues,
 } from './TaskboardItemFormModal';
 import TaskboardCol, { TaskboardColProps } from './TaskboardCol';
-import useSyncedState from '../shared/useLocalStorageState';
+import { useSyncedState } from '../shared/SharedHooks';
 
 const generateId = () => Date.now().toString();
 
