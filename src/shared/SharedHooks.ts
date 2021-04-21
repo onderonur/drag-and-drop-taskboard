@@ -33,4 +33,3 @@ export function useSyncedState<T>(
 
   return [state, setState];
 }
-
